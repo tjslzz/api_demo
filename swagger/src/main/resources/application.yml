@@ -1,0 +1,8 @@
+spring:
+#  profiles:
+#    include:
+#      - common
+  application:
+    name: SwaggerDemo
+server:
+  port: 8001
