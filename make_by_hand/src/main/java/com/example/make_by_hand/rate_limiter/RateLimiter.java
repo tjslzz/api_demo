@@ -1,4 +1,4 @@
-package rate_limiter;
+package com.example.make_by_hand.rate_limiter;
 
 import lombok.extern.slf4j.Slf4j;
 
